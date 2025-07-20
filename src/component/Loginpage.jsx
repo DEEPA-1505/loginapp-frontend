@@ -62,7 +62,7 @@ const Loginpage = () => {
         <img className=' w-full h-screen object-cover opacity-50' src={bg} alt="" />
       </div>
 
-      <div className='flex absolute top-16 sm:top-2 right-6 left-10 sm:left-16 md:left-42  justify-center items-center '>
+      <div className='flex absolute md:top-8 top-16 sm:top-2 right-6 left-10 sm:left-16 md:left-42  justify-center items-center '>
 
         <div className='bg-black  bg-opacity-70 px-16 py-10 sm:py-20 rounded-md text-white w-full max-w-lg'>
           <h2 className='text-3xl font-bold mb-6'> Sign In</h2>
